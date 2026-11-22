@@ -9,7 +9,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1
 .f{opacity:0;animation:fade .6s ease-out forwards}
 </style>
 <rect x="0.5" y="0.5" width="859" height="237" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="38" y="32" class="t">3 contributions in the last year</text>
+<text x="38" y="32" class="t">5 contributions in the last year</text>
 <text x="822" y="32" class="m" text-anchor="end">@khaledmnejja · updated 2026-11-22</text>
 <text x="74.0" y="50" class="m">Dec</text>
 <text x="134.0" y="50" class="m">Jan</text>
@@ -390,10 +390,10 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1
 <rect x="809.0" y="118" width="12" height="12" rx="2.5" fill="#161b22" class="c" style="animation-delay:0.660s"><title>0 on 2026-11-19</title></rect>
 <rect x="809.0" y="133" width="12" height="12" rx="2.5" fill="#161b22" class="c" style="animation-delay:0.672s"><title>0 on 2026-11-20</title></rect>
 <rect x="809.0" y="148" width="12" height="12" rx="2.5" fill="#39d353" class="c" style="animation-delay:0.684s"><title>2 on 2026-11-21</title></rect>
-<rect x="824.0" y="58" width="12" height="12" rx="2.5" fill="#161b22" class="c" style="animation-delay:0.624s"><title>0 on 2026-11-22</title></rect>
+<rect x="824.0" y="58" width="12" height="12" rx="2.5" fill="#39d353" class="c" style="animation-delay:0.624s"><title>2 on 2026-11-22</title></rect>
 <g class="f" style="animation-delay:0.72s">
-<text x="38" y="190" class="s"><tspan class="v">1d</tspan> <tspan class="m">current streak</tspan></text>
-<text x="208" y="190" class="s"><tspan class="v">1d</tspan> <tspan class="m">longest streak</tspan></text>
+<text x="38" y="190" class="s"><tspan class="v">2d</tspan> <tspan class="m">current streak</tspan></text>
+<text x="208" y="190" class="s"><tspan class="v">2d</tspan> <tspan class="m">longest streak</tspan></text>
 <text x="378" y="190" class="s"><tspan class="v">2</tspan> <tspan class="m">best day</tspan></text>
 <text x="699" y="190" class="m" text-anchor="end">Less</text>
 <rect x="707" y="180" width="12" height="12" rx="2.5" fill="#161b22"/>
