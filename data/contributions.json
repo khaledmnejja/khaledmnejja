@@ -1,9 +1,9 @@
 {
   "username": "khaledmnejja",
-  "generated": "2026-11-24",
-  "total": 7,
-  "current_streak": 3,
-  "longest_streak": 3,
+  "generated": "2026-11-25",
+  "total": 8,
+  "current_streak": 4,
+  "longest_streak": 4,
   "best_day": {
     "date": "2026-11-22",
     "count": 3
@@ -21,7 +21,7 @@
     "2026-08": 0,
     "2026-09": 0,
     "2026-10": 0,
-    "2026-11": 6
+    "2026-11": 7
   },
   "days": [
     {
@@ -1856,6 +1856,11 @@
     },
     {
       "date": "2026-11-24",
+      "level": 2,
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
       "level": 0,
       "count": 0
     }
